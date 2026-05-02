@@ -2,7 +2,7 @@
 
 <div>
     <img alt="Criado por Alexandre Jareck [Jareck]" src="https://img.shields.io/badge/Criado%20por-Alexandre%20Jareck-06b6d4?labelColor=0d1117">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-06b6d4?labelColor=0d1117">
+    <img alt="License" src="https://img.shields.io/badge/License-MIT-06b6d4?labelColor=0d1117">
 </div>
 
 ---
