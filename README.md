@@ -14,3 +14,4 @@ O MBA em Engenharia de Software com IA une uma base técnica consistente ao uso 
 ---
 
 ## Desafios
+[Ingestão e Busca Semântica com LangChain e Postgres](https://github.com/AlexandreJareck/challenge-ingestion-and-semantic-search/tree/82d86ce489a17470377c20e54351fb9dfb4aa2d0)
