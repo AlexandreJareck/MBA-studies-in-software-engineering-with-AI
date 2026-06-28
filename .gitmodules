@@ -1,3 +1,6 @@
 [submodule "challenge-ingestion-and-semantic-search"]
 	path = challenge-ingestion-and-semantic-search
 	url = https://github.com/AlexandreJareck/challenge-ingestion-and-semantic-search
+[submodule "pull-prompt-optimization-and-evaluation"]
+	path = pull-prompt-optimization-and-evaluation
+	url = https://github.com/AlexandreJareck/pull-prompt-optimization-and-evaluation
