@@ -14,7 +14,9 @@ O MBA em Engenharia de Software com IA une uma base técnica consistente ao uso 
 ---
 
 ## Cursos
-[Prompt Engeneering](https://github.com/AlexandreJareck/prompt-engineering)
+[Prompt Engineering](https://github.com/AlexandreJareck/prompt-engineering)
+
+[Introdução ao LangChain](https://github.com/AlexandreJareck/introduction-langchain)
 
 ---
 
