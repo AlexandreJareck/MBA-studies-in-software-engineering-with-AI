@@ -7,3 +7,6 @@
 [submodule "prompt-engineering"]
 	path = prompt-engineering
 	url = git@github.com:AlexandreJareck/prompt-engineering
+[submodule "introduction-langchain"]
+	path = introduction-langchain
+	url = git@github.com:AlexandreJareck/introduction-langchain
