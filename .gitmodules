@@ -4,3 +4,6 @@
 [submodule "pull-prompt-optimization-and-evaluation"]
 	path = pull-prompt-optimization-and-evaluation
 	url = git@github.com:AlexandreJareck/pull-prompt-optimization-and-evaluation
+[submodule "prompt-engineering"]
+	path = prompt-engineering
+	url = git@github.com:AlexandreJareck/prompt-engineering
