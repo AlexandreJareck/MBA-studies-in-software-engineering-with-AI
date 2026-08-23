@@ -13,3 +13,6 @@
 [submodule "design-docs"]
 	path = design-docs
 	url = git@github.com:AlexandreJareck/design-docs
+[submodule "mba-ai-assisted-design-documentation-challenge"]
+	path = mba-ai-assisted-design-documentation-challenge
+	url = git@github.com:AlexandreJareck/mba-ai-assisted-design-documentation-challenge

@@ -24,3 +24,5 @@ O MBA em Engenharia de Software com IA une uma base técnica consistente ao uso 
 [Ingestão e Busca Semântica com LangChain e Postgres](https://github.com/AlexandreJareck/challenge-ingestion-and-semantic-search/tree/main)
 
 [Pull, Otimização e Avaliação de Prompts com LangChain e LangSmith](https://github.com/AlexandreJareck/pull-prompt-optimization-and-evaluation/tree/main)
+
+[Da Reunião ao Documento: Design Docs Gerados por IA](https://github.com/AlexandreJareck/mba-ai-assisted-design-documentation-challenge/tree/main)
