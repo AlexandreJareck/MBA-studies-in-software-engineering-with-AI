@@ -18,6 +18,8 @@ O MBA em Engenharia de Software com IA une uma base técnica consistente ao uso 
 
 [Introdução ao LangChain](https://github.com/AlexandreJareck/introduction-langchain)
 
+[Design Docs](https://github.com/AlexandreJareck/design-docs)
+
 ---
 
 ## Desafios
