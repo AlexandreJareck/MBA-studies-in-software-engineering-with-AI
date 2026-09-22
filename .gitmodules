@@ -16,3 +16,6 @@
 [submodule "mba-ai-assisted-design-documentation-challenge"]
 	path = mba-ai-assisted-design-documentation-challenge
 	url = git@github.com:AlexandreJareck/mba-ai-assisted-design-documentation-challenge
+[submodule "refactor-projects-skill"]
+	path = refactor-projects-skill
+	url = git@github.com:AlexandreJareck/refactor-projects-skill
