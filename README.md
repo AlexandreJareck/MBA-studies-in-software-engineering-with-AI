@@ -30,3 +30,17 @@ O MBA em Engenharia de Software com IA une uma base técnica consistente ao uso 
 [Da Reunião ao Documento: Design Docs Gerados por IA](https://github.com/AlexandreJareck/mba-ai-assisted-design-documentation-challenge/tree/main)
 
 [Criação de Skills — Refatoração Arquitetural Automatizada](https://github.com/AlexandreJareck/refactor-projects-skill/tree/main)
+
+---
+
+## Outros projetos do MBA
+
+- [VideoMax — Harness Scaffold](https://github.com/AlexandreJareck/mba-ia-videomax-harness-scaffold)
+- [RAG Knowledge Chat](https://github.com/AlexandreJareck/mba-ia-rag)
+- [Greenfield Project — StreamTube](https://github.com/AlexandreJareck/mba-ia-greenfield-project)
+- [Desenvolvimento de Agentes com IA](https://github.com/AlexandreJareck/mba-ia-dev-agents)
+- [Labs Skills](https://github.com/AlexandreJareck/mba-ia-labs-skills)
+- [Cache em Aplicações com IA](https://github.com/AlexandreJareck/mba-ia-cache)
+- [Dev Workflow com IA](https://github.com/AlexandreJareck/mba-ia-dev-workflow)
+- [Live — SDD e Pipelines de Integração](https://github.com/AlexandreJareck/live-mba-ia-sdd-pipelines-int)
+- [Live — DevOps com Claude Code](https://github.com/AlexandreJareck/mba-ia-live-devops-claude-code)

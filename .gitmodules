@@ -19,3 +19,30 @@
 [submodule "refactor-projects-skill"]
 	path = refactor-projects-skill
 	url = git@github.com:AlexandreJareck/refactor-projects-skill
+[submodule "mba-ia-videomax-harness-scaffold"]
+	path = mba-ia-videomax-harness-scaffold
+	url = https://github.com/AlexandreJareck/mba-ia-videomax-harness-scaffold.git
+[submodule "mba-ia-rag"]
+	path = mba-ia-rag
+	url = https://github.com/AlexandreJareck/mba-ia-rag.git
+[submodule "mba-ia-greenfield-project"]
+	path = mba-ia-greenfield-project
+	url = https://github.com/AlexandreJareck/mba-ia-greenfield-project.git
+[submodule "mba-ia-dev-agents"]
+	path = mba-ia-dev-agents
+	url = https://github.com/AlexandreJareck/mba-ia-dev-agents.git
+[submodule "mba-ia-labs-skills"]
+	path = mba-ia-labs-skills
+	url = https://github.com/AlexandreJareck/mba-ia-labs-skills.git
+[submodule "mba-ia-cache"]
+	path = mba-ia-cache
+	url = https://github.com/AlexandreJareck/mba-ia-cache.git
+[submodule "mba-ia-dev-workflow"]
+	path = mba-ia-dev-workflow
+	url = https://github.com/AlexandreJareck/mba-ia-dev-workflow.git
+[submodule "live-mba-ia-sdd-pipelines-int"]
+	path = live-mba-ia-sdd-pipelines-int
+	url = https://github.com/AlexandreJareck/live-mba-ia-sdd-pipelines-int.git
+[submodule "mba-ia-live-devops-claude-code"]
+	path = mba-ia-live-devops-claude-code
+	url = https://github.com/AlexandreJareck/mba-ia-live-devops-claude-code.git
