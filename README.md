@@ -44,3 +44,4 @@ O MBA em Engenharia de Software com IA une uma base técnica consistente ao uso 
 - [Dev Workflow com IA](https://github.com/AlexandreJareck/mba-ia-dev-workflow)
 - [Live — SDD e Pipelines de Integração](https://github.com/AlexandreJareck/live-mba-ia-sdd-pipelines-int)
 - [Live — DevOps com Claude Code](https://github.com/AlexandreJareck/mba-ia-live-devops-claude-code)
+- [Skills MBA](https://github.com/AlexandreJareck/skills-mba)

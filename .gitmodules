@@ -46,3 +46,6 @@
 [submodule "mba-ia-live-devops-claude-code"]
 	path = mba-ia-live-devops-claude-code
 	url = https://github.com/AlexandreJareck/mba-ia-live-devops-claude-code.git
+[submodule "skills-mba"]
+	path = skills-mba
+	url = https://github.com/AlexandreJareck/skills-mba.git
