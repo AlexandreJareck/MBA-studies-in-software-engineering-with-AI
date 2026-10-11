@@ -25,9 +25,9 @@
 [submodule "mba-ia-rag"]
 	path = mba-ia-rag
 	url = https://github.com/AlexandreJareck/mba-ia-rag.git
-[submodule "mba-ia-greenfield-project"]
-	path = mba-ia-greenfield-project
-	url = https://github.com/AlexandreJareck/mba-ia-greenfield-project.git
+[submodule "mba-stream-tube-ia"]
+	path = mba-stream-tube-ia
+	url = https://github.com/AlexandreJareck/mba-stream-tube-ia.git
 [submodule "mba-ia-dev-agents"]
 	path = mba-ia-dev-agents
 	url = https://github.com/AlexandreJareck/mba-ia-dev-agents.git
