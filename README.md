@@ -37,7 +37,7 @@ O MBA em Engenharia de Software com IA une uma base técnica consistente ao uso 
 
 - [VideoMax — Harness Scaffold](https://github.com/AlexandreJareck/mba-ia-videomax-harness-scaffold)
 - [RAG Knowledge Chat](https://github.com/AlexandreJareck/mba-ia-rag)
-- [Greenfield Project — StreamTube](https://github.com/AlexandreJareck/mba-ia-greenfield-project)
+- [StreamTube — Upload e Processamento de Vídeos](https://github.com/AlexandreJareck/mba-stream-tube-ia)
 - [Desenvolvimento de Agentes com IA](https://github.com/AlexandreJareck/mba-ia-dev-agents)
 - [Labs Skills](https://github.com/AlexandreJareck/mba-ia-labs-skills)
 - [Cache em Aplicações com IA](https://github.com/AlexandreJareck/mba-ia-cache)
